@@ -1,6 +1,10 @@
 # part2-chapter7
 
 ## 날씨앱
+
+<img src="https://github.com/soommmin/part2-chapter7/assets/150005268/7c206d9d-264a-426f-a490-bd93d1ffae4b" width="200" height="500"/>
+<img src="https://github.com/soommmin/part2-chapter7/assets/150005268/aa44c683-1a01-4013-8b2a-cd40fd37e6e2" width="200" height="500"/>
+
 ## what i learned
 1. Location
 2. Foreground Service
