@@ -1,7 +1,12 @@
 # part2-chapter8
 
 ## 맛집앱
-## what i learned
+
+<img src="https://github.com/soommmin/part2-chapter8/assets/150005268/0f505e87-7603-45c8-98ef-385592a23f6d" width="200" height="400"/>
+<img src="https://github.com/soommmin/part2-chapter8/assets/150005268/10bd3e6e-7bdb-4bfe-b904-badebdf42ad4" width="200" height="400"/>
+<img src="https://github.com/soommmin/part2-chapter8/assets/150005268/ee30eed0-2b92-4717-a412-76602c66ad37" width="200" height="400"/>
+
+## What I Learned
 1. NaverMap
 2. Naver Open API
 3. BottomSheetBehavior
