@@ -4,6 +4,7 @@
 
 <img src="https://github.com/soommmin/part2-chapter5/assets/150005268/584fde4b-cf1f-4ba3-883a-116bfb2e347d" width="200" height="400"/>
 <img src="https://github.com/soommmin/part2-chapter5/assets/150005268/5123a426-de0a-4d09-a5d0-ad56fed8bf78" width="200" height="400"/>
+<img src="https://github.com/soommmin/part2-chapter5/assets/150005268/9c09f7cb-bd1c-412c-8bd9-00d33d64dd16" width="200" height="400"/>
 
 ## What I Learned
 1. Retrofit
