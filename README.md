@@ -2,9 +2,10 @@
 
 ## 채팅앱
 
-<img src="https://github.com/soommmin/part2-chapter6/assets/150005268/5be01e09-c12d-4ab9-9966-9ff9139168c8" width="200" height="400"/>
-<img src="https://github.com/soommmin/part2-chapter6/assets/150005268/5e18aa19-cc19-4549-bed2-e7fa96912318" width="200" height="400"/>
-<img src="https://github.com/soommmin/part2-chapter6/assets/150005268/77d0d47a-50ec-45cd-8539-876981716dab" width="200" height="400"/>
+<img src="https://github.com/soommmin/part2-chapter6/assets/150005268/2136ed18-5081-4a16-b1d4-9130c9a78d6c" width="200" height="400"/>
+<img src="https://github.com/soommmin/part2-chapter6/assets/150005268/bbca7c08-df06-462a-8c3a-65e21b53ec73" width="200" height="400"/>
+<img src="https://github.com/soommmin/part2-chapter6/assets/150005268/f02dc277-a9bc-4e70-9ee8-848f960ca176" width="200" height="400"/>
+
 
 ## What I Learned
 1. Firebase Realtime Database
