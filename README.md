@@ -6,6 +6,12 @@
 <img src="https://github.com/soommmin/part2-chapter4/assets/150005268/9ea734a3-ee5f-47bc-b1e7-0ecd2cc14c03" width="200" height="400"/>
 <img src="https://github.com/soommmin/part2-chapter4/assets/150005268/8b4dd31a-eb79-4297-8739-7181197e768c" width="200" height="400"/>
 
+
+깃허브 레포지토리 조회 앱을 통해 Github Open API를 활용하여 키워드로 레포지토리를 검색할 수 있습니다.
+RecyclerView와 ListAdapter를 사용하여 검색 결과를 효과적으로 목록으로 표시합니다.
+선택한 레포지토리의 상세 정보를 확인할 수 있습니다.
+
+
 ## What I Learned
 1. Retrofit
 2. Github Open API
@@ -26,6 +32,4 @@ RecyclerView는 대량의 데이터를 효과적으로 표시하고 스크롤할
 Handler를 사용하여 백그라운드 스레드에서 UI 갱신을 수행합니다. 이를 통해 네트워크 요청 등의 작업을 비동기적으로 처리하면서도 UI를 부드럽게 업데이트할 수 있습니다.
 
 
-깃허브 레포지토리 조회 앱을 통해 Github Open API를 활용하여 키워드로 레포지토리를 검색할 수 있습니다.
-RecyclerView와 ListAdapter를 사용하여 검색 결과를 효과적으로 목록으로 표시합니다.
-선택한 레포지토리의 상세 정보를 확인할 수 있습니다.
+
