@@ -6,6 +6,12 @@
 <img src="https://github.com/soommmin/part2-chapter5/assets/150005268/5123a426-de0a-4d09-a5d0-ad56fed8bf78" width="200" height="400"/>
 <img src="https://github.com/soommmin/part2-chapter5/assets/150005268/9c09f7cb-bd1c-412c-8bd9-00d33d64dd16" width="200" height="400"/>
 
+
+뉴스앱은 Material Design을 기반으로 한 시각적으로 매력적인 디자인을 사용자에게 제공합니다.
+Retrofit과 Glide를 활용하여 빠르게 뉴스 컨텐츠를 가져오고 풍부한 이미지를 로딩합니다.
+Lottie를 활용하여 앱에 다양한 동적인 애니메이션 효과를 추가하여 사용자에게 색다른 뉴스 경험을 제공합니다.
+
+
 ## What I Learned
 1. Retrofit
 2. Material Design
@@ -35,6 +41,4 @@ HTML 파싱을 위해 Jsoup 라이브러리를 사용했습니다. 뉴스 웹 �
 Airbnb 에서 만든 애니메이션 처리 라이브러리 Lottie 애니메이션을 활용하여 앱에 동적이고 매력적인 애니메이션 효과를 부여합니다. 사용자에게 더욱 즐거운 뉴스 읽기 경험을 선사합니다.
 
 
-뉴스앱은 Material Design을 기반으로 한 시각적으로 매력적인 디자인을 사용자에게 제공합니다.
-Retrofit과 Glide를 활용하여 빠르게 뉴스 컨텐츠를 가져오고 풍부한 이미지를 로딩합니다.
-Lottie를 활용하여 앱에 다양한 동적인 애니메이션 효과를 추가하여 사용자에게 색다른 뉴스 경험을 제공합니다.
+
