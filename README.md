@@ -5,6 +5,13 @@
 <img src="https://github.com/Fastcampus-Android-Lecture-Project-2023/part2-chapter3/assets/150005268/fcc341ac-b37b-48a9-ab48-8a070d641251" width="200" height="400"/>
 <img src="https://github.com/Fastcampus-Android-Lecture-Project-2023/part2-chapter3/assets/150005268/4bdfe6c9-967f-43f6-9cbb-4da6134cdb88" width="200" height="400"/>
 
+
+
+공지앱은 OkHttp를 활용하여 서버로부터 공지사항을 동적으로 가져오며, Socket 통신을 통해 실시간으로 새로운 공지사항을 수신합니다.
+안드로이드 앱은 OkHttp 라이브러리를 이용하여 서버와의 HTTP 프로토콜 통신을 간편하게 처리하며, 받아온 JSON 형식의 데이터를 파싱하여 사용자 친화적으로 표시합니다.
+사용자는 애플리케이션을 실행할 때마다 최신의 공지사항을 빠르게 받아올 수 있으며, 더불어 Socket 통신을 활용하여 실시간 업데이트된 정보를 즉각적으로 수신할 수 있습니다
+
+
 ## What I Learned
 1. Socket
  - ServerSocket 으로 간단 Socket 서버 구현하기
@@ -53,6 +60,4 @@ Header: 서버에 전달하는 정보
 Body: 실제 데이터
 
 
-공지앱은 OkHttp를 활용하여 서버로부터 공지사항을 동적으로 가져오며, Socket 통신을 통해 실시간으로 새로운 공지사항을 수신합니다.
-안드로이드 앱은 OkHttp 라이브러리를 이용하여 서버와의 HTTP 프로토콜 통신을 간편하게 처리하며, 받아온 JSON 형식의 데이터를 파싱하여 사용자 친화적으로 표시합니다.
-사용자는 애플리케이션을 실행할 때마다 최신의 공지사항을 빠르게 받아올 수 있으며, 더불어 Socket 통신을 활용하여 실시간 업데이트된 정보를 즉각적으로 수신할 수 있습니다
+
