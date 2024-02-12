@@ -1,0 +1,49 @@
+{
+  "coffee": [
+    {
+      "name": "아메리카노",
+      "image": "https://images.pexels.com/photos/4195599/pexels-photo-4195599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2/100/100"
+
+    },
+    {
+      "name": "카페라떼",
+      "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2/100/100"
+    },
+    {
+      "name": "아이스커피",
+      "image": "https://images.pexels.com/photos/7937416/pexels-photo-7937416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2/100/100"
+    },
+    {
+      "name": "디카페인 아메리카노",
+      "image": "https://images.pexels.com/photos/7937416/pexels-photo-7937416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2/100/100"
+    },
+    {
+      "name": "얼그레이 티",
+      "image": "https://images.pexels.com/photos/10115236/pexels-photo-10115236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2/100/100"
+    },
+    {
+      "name": "아이스티",
+      "image": "https://images.pexels.com/photos/792613/pexels-photo-792613.jpeg?auto=compress&cs=tinysrgb&w=800/100/100"
+    },
+    {
+      "name": "디카페인 카페라떼",
+      "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2/100/100"
+    },
+    {
+      "name": "아이스 디카페인 카페라떼",
+      "image": "https://images.pexels.com/photos/12691444/pexels-photo-12691444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2/100/100"
+    }
+  ],
+  "food": [
+    {
+      "name": "딸기케이크",
+      "image": "https://images.pexels.com/photos/15071192/pexels-photo-15071192.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2/100/100"
+    },
+    {
+      "name": "얼그레이 케이크",
+      "image": "https://images.pexels.com/photos/10777242/pexels-photo-10777242.jpeg?auto=compress&cs=tinysrgb&w=800/100/100"
+    }
+
+  ]
+
+}
