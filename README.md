@@ -7,6 +7,11 @@
 <img src="https://github.com/soommmin/part2-chapter11/assets/150005268/991ed1ab-02d3-4e39-a6a6-7beccebafdd1" width="200" height="400"/>
 <img src="https://github.com/soommmin/part2-chapter11/assets/150005268/cb8035ae-232d-49c4-a572-95b6a79c1617" width="200" height="400"/>
 
+ 
+별다방커피 앱은 AppBarLayout과 MotionLayout을 주요 구성 요소로 활용하여 사용자에게 편리한 경험을 제공합니다.
+AppBarLayout은 화면 상단에 위치하며 사용자의 스크롤이나 제스처에 따라 헤더를 조절합니다. 사용자가 스크롤을 내리면 헤더가 부드럽게 축소되거나 숨겨지는 효과를 제공하여 화면 공간을 효율적으로 활용합니다. CollapsingToolbarLayout과 함께 사용하여 헤더의 기능을 다양하게 제공합니다.
+또한, MotionLayout을 활용하여 화면 요소에 부드러운 애니메이션 효과를 적용합니다. 사용자가 버튼을 클릭하거나 화면을 스와이프할 때 자연스러운 화면 전환과 요소 이동이 이루어지며, 이는 사용자가 앱을 직관적으로 이해하고 상호작용할 수 있도록 도와줍니다.
+별다방커피 앱은 이러한 AppBarLayout과 MotionLayout을 효과적으로 활용하여 사용자에게 편리하고 시각적으로 매력적인 UI를 제공합니다. 사용자는 손쉽게 메뉴를 탐색하고 사용자 경험을 향상시킬 수 있습니다.
 
 
 
