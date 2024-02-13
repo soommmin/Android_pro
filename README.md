@@ -7,6 +7,10 @@
 <img src="https://github.com/soommmin/part2-chapter12/assets/150005268/792db3fe-ccab-4d65-8e9a-cd4b77924e14" width="200" height="400"/>
 
 
+유튜브 앱은 ExoPlayer를 통해 안정적이고 효율적인 동영상 재생을 제공합니다. 이를 통해 사용자는 인터넷을 통해 동영상을 스트리밍하거나 기기에 저장된 동영상을 간편하게 재생할 수 있습니다. 
+ExoPlayer의 다양한 기능은 사용자 경험을 향상시킵니다. 예를 들어, 동영상의 해상도를 자동으로 조절하거나 빠른 전환 속도를 제공하여 동영상 간의 전환이 부드럽게 이루어집니다.
+또한, 유튜브 앱은 제스처 기반 컨트롤을 통해 사용자가 동영상을 터치하고 제스처를 사용하여 간편하게 조작할 수 있습니다. 이를 통해 사용자는 동영상을 손쉽게 재생, 일시 정지하거나 이동할 수 있습니다.
+
 
 ## What I Learned
 1. ExoPlayer
@@ -35,23 +39,21 @@ ExoPlayer는 Android의 MediaPlayer보다 더 많은 유연성을 제공하며, 
 ### MotionEvent 객체
 https://developer.android.com/reference/android/view/MotionEvent
 
-기본적인 구조: ACTION_DOWN → ACTION_MOVE → ACTION_UP
-멀티 터치 시 : ACTION_POINTER_DOWN, ACTION_POINTER_UP
-제스처 취소 시 : ACTION_CANCEL
-터치 : 터치 한개
-제스쳐 : 터치가 모여 해석된 동작. 줌인, 줌아웃, 스크롤 등등
+- 기본적인 구조: ACTION_DOWN → ACTION_MOVE → ACTION_UP
+- 멀티 터치 시 : ACTION_POINTER_DOWN, ACTION_POINTER_UP
+- 제스처 취소 시 : ACTION_CANCEL
+- 터치 : 터치 한개
+- 제스쳐 : 터치가 모여 해석된 동작. 줌인, 줌아웃, 스크롤 등등
 
 MotionEvent 객체는 안드로이드에서 터치 이벤트를 캡처하고 처리하는 데 사용됨 
 사용자의 터치 동작을 기록하고 해당 동작에 대한 정보를 제공
 
-ACTION_DOWN: 사용자가 화면에 손가락을 댔을 때 
-ACTION_MOVE: 사용자가 화면 위에서 손가락을 움직였을 때
-ACTION_UP: 사용자가 손가락을 화면에서 뗄 때 
-ACTION_POINTER_DOWN: 추가적인 포인터(손가락)가 화면에 눌렸을 때 
-ACTION_POINTER_UP: 추가적인 포인터(손가락)가 화면에서 뗼렸을 때
-ACTION_CANCEL: 제스처가 취소되었을 때 발생
-MotionEvent 객체는 이러한 터치 및 제스처 이벤트에 대한 다양한 정보를 포함하며, 각 이벤트는 화면의 특정 위치, 터치한 손가락의 식별자, 이동 거리 등을 포함할 수 있음
-
+- ACTION_DOWN: 사용자가 화면에 손가락을 댔을 때 
+- ACTION_MOVE: 사용자가 화면 위에서 손가락을 움직였을 때
+- ACTION_UP: 사용자가 손가락을 화면에서 뗄 때 
+- ACTION_POINTER_DOWN: 추가적인 포인터(손가락)가 화면에 눌렸을 때 
+- ACTION_POINTER_UP: 추가적인 포인터(손가락)가 화면에서 뗼렸을 때
+- ACTION_CANCEL: 제스처가 취소되었을 때 발생
 
 
 ### Touch
