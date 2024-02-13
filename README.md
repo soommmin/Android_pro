@@ -1,6 +1,6 @@
-# part2-chapter12
+## part2-chapter12
 
-## 유튜브(youtube)
+# 유튜브(youtube)
 
 <img src="https://github.com/soommmin/part2-chapter12/assets/150005268/df3a40b2-347c-46fe-9bf6-49025e5bb106" width="200" height="400"/>
 <img src="https://github.com/soommmin/part2-chapter12/assets/150005268/7308ace3-054c-4751-aae0-f7872e142eac" width="200" height="400"/>
