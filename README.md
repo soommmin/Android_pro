@@ -57,7 +57,6 @@ MotionEvent 객체는 안드로이드에서 터치 이벤트를 캡처하고 처
 
 
 ### Touch
-안드로이드에서 Touch 이벤트가 처리되는 과정
 https://developer.android.com/training/gestures/viewgroup?hl=ko
 
 안드로이드에서 Touch 이벤트가 처리되는 과정은 Activity, ViewGroup, 그리고 View 간에 전달되는 과정을 따름
