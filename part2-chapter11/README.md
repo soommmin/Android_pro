@@ -5,8 +5,7 @@
 <img src="https://github.com/soommmin/android_pro/assets/150005268/774eca0c-6e27-4840-bfd2-cb71ab1c030f" width="200" height="400"/>
 <img src="https://github.com/soommmin/android_pro/assets/150005268/fc71b92b-693c-4ef1-b5bd-a4ff86ec2ca9" width="200" height="400"/>
 <img src="https://github.com/soommmin/android_pro/assets/150005268/c21193f9-5b02-4b95-9523-9a83814b651b" width="200" height="400"/>
-<img src="https://github.com/soommmin/part2-chapter11/assets/150005268/cb8035ae-232d-49c4-a572-95b6a79c1617" width="200" height="400"/>
-
+<img src="https://github.com/soommmin/android_pro/assets/150005268/34b029ea-e2b5-44d1-83f2-ea0866d51c8f" width="200" height="400"/>
  
 별다방커피 앱은 AppBarLayout과 MotionLayout을 주요 구성 요소로 활용하여 사용자에게 편리한 경험을 제공합니다.
 AppBarLayout은 화면 상단에 위치하며 사용자의 스크롤이나 제스처에 따라 헤더를 조절합니다. 사용자가 스크롤을 내리면 헤더가 부드럽게 축소되거나 숨겨지는 효과를 제공하여 화면 공간을 효율적으로 활용합니다. CollapsingToolbarLayout과 함께 사용하여 헤더의 기능을 다양하게 제공합니다.
