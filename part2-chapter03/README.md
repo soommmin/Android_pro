@@ -1,6 +1,6 @@
-# part2-chapter3
+## part2-chapter3
 
-## 공지앱
+# 공지앱
 
 <img src="https://github.com/Fastcampus-Android-Lecture-Project-2023/part2-chapter3/assets/150005268/fcc341ac-b37b-48a9-ab48-8a070d641251" width="200" height="400"/>
 <img src="https://github.com/Fastcampus-Android-Lecture-Project-2023/part2-chapter3/assets/150005268/4bdfe6c9-967f-43f6-9cbb-4da6134cdb88" width="200" height="400"/>
