@@ -2,10 +2,9 @@
 
 ## 채팅앱
 
-<img src="https://github.com/soommmin/part2-chapter6/assets/150005268/2136ed18-5081-4a16-b1d4-9130c9a78d6c" width="200" height="400"/>
-<img src="https://github.com/soommmin/part2-chapter6/assets/150005268/bbca7c08-df06-462a-8c3a-65e21b53ec73" width="200" height="400"/>
-<img src="https://github.com/soommmin/part2-chapter6/assets/150005268/f02dc277-a9bc-4e70-9ee8-848f960ca176" width="200" height="400"/>
-
+<img src="https://github.com/soommmin/android_pro/assets/150005268/c24c3dd0-e4b5-49b7-ac7d-d02115231e6c" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/590276d0-e332-46ef-9b8e-2d9b160c61d3" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/3c233d75-c89c-4e06-8ffc-6ea843395664" width="200" height="400"/>
 
 채팅앱은 Firebase Realtime Database를 활용하여 모든 채팅 참여자에게 실시간으로 메시지를 전달하고 업데이트합니다.
 Firebase Authentication을 이용하여 간편하게 회원가입하고 로그인하여 안전하게 채팅을 시작할 수 있습니다.
