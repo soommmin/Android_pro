@@ -1,0 +1,12 @@
+{
+  "user": {
+    "nickname": "soomin",
+    "starCount" : 10,
+    "totalCount" : 12
+  },
+  "appbarImage" : "https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2/200/100",
+  "banner": {
+    "image": "https://images.pexels.com/photos/1907071/pexels-photo-1907071.jpeg?auto=compress&cs=tinysrgb&w=800/200/240",
+    "contentDescription": "아메리카노 50% 세일중"
+  }
+}
