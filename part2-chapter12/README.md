@@ -2,9 +2,9 @@
 
 # 유튜브(youtube)
 
-<img src="https://github.com/soommmin/part2-chapter12/assets/150005268/df3a40b2-347c-46fe-9bf6-49025e5bb106" width="200" height="400"/>
-<img src="https://github.com/soommmin/part2-chapter12/assets/150005268/7308ace3-054c-4751-aae0-f7872e142eac" width="200" height="400"/>
-<img src="https://github.com/soommmin/part2-chapter12/assets/150005268/792db3fe-ccab-4d65-8e9a-cd4b77924e14" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/0782c7a9-d31a-4c76-812e-8edd6b94a63e" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/7bcfed2f-b7ff-4848-bf87-4e9a4a2b94f4" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/f5ebe05e-1c96-48a8-ba90-f6ececfccf3b" width="200" height="400"/>
 
 
 유튜브 앱은 ExoPlayer를 통해 안정적이고 효율적인 동영상 재생을 제공합니다. 이를 통해 사용자는 인터넷을 통해 동영상을 스트리밍하거나 기기에 저장된 동영상을 간편하게 재생할 수 있습니다. 
