@@ -1,9 +1,9 @@
-# part2-chapter9
+## part2-chapter9
 
-## 위치공유앱
+# 위치공유앱
 
-<img src="https://github.com/soommmin/part2-chapter8/assets/150005268/0254af5a-d841-4401-8f47-0ee2568bbddd" width="200" height="400"/>
-<img src="https://github.com/soommmin/part2-chapter8/assets/150005268/356b0567-1483-4a5f-ac4c-dd7214acb16d" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/32093cdd-f54a-49e0-bf1a-54df74d37118" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/636ef417-796d-4398-8fbe-729a4545ae83" width="200" height="400"/>
 
 
 위치공유앱은 사용자들이 실시간으로 위치를 공유하고 Google Maps SDK를 이용하여 지도 상에 표시합니다. 
