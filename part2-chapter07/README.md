@@ -2,8 +2,8 @@
 
 ## 날씨앱
 
-<img src="https://github.com/soommmin/part2-chapter7/assets/150005268/7c206d9d-264a-426f-a490-bd93d1ffae4b" width="200" height="400"/>
-<img src="https://github.com/soommmin/part2-chapter7/assets/150005268/aa44c683-1a01-4013-8b2a-cd40fd37e6e2" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/7a7b097e-81ff-4cd2-a6be-be2f4a7a983f" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/6186cf12-d1c6-4523-823f-339665fe7d3c" width="200" height="400"/>
 
 
 날씨 앱은 안정적인 Fused Location Provider API를 활용하여 정확한 위치 기반의 날씨 정보를 신속하게 제공합니다.
