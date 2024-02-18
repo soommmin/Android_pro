@@ -1,6 +1,6 @@
-# part2-chapter11
+## part2-chapter11
 
-## 별다방커피(스타벅스)
+# 별다방커피(스타벅스)
 
 <img src="https://github.com/soommmin/android_pro/assets/150005268/774eca0c-6e27-4840-bfd2-cb71ab1c030f" width="200" height="400"/>
 <img src="https://github.com/soommmin/android_pro/assets/150005268/fc71b92b-693c-4ef1-b5bd-a4ff86ec2ca9" width="200" height="400"/>
