@@ -1,11 +1,10 @@
-# part2-chapter5
+## part2-chapter5
 
 # 뉴스앱
 
-<img src="https://github.com/soommmin/part2-chapter5/assets/150005268/584fde4b-cf1f-4ba3-883a-116bfb2e347d" width="200" height="400"/>
-<img src="https://github.com/soommmin/part2-chapter5/assets/150005268/5123a426-de0a-4d09-a5d0-ad56fed8bf78" width="200" height="400"/>
-<img src="https://github.com/soommmin/part2-chapter5/assets/150005268/9c09f7cb-bd1c-412c-8bd9-00d33d64dd16" width="200" height="400"/>
-
+<img src="https://github.com/soommmin/android_pro/assets/150005268/178a9427-62b0-481e-9707-7ec815695b6f" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/f4f421d6-2611-47df-a17e-d101a43a3310" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/d1c3b241-2e48-4a9f-8e34-bbbc2787f7e1" width="200" height="400"/>
 
 뉴스앱은 Material Design을 기반으로 한 시각적으로 매력적인 디자인을 사용자에게 제공합니다.
 Retrofit과 Glide를 활용하여 빠르게 뉴스 컨텐츠를 가져오고 풍부한 이미지를 로딩합니다.
