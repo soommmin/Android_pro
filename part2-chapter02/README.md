@@ -2,8 +2,10 @@
 
 ## 녹음기앱
 
-<img src="https://github.com/soommmin/part2_chapter2/assets/150005268/3002eb2a-d0f2-4cab-9bf5-14e9aa92fa1b" width="200" height="400"/>
-<img src="https://github.com/soommmin/part2_chapter2/assets/150005268/88fd63c7-ff3a-4cc7-ba72-7a847b3f6233" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/2403bcba-3bcb-4036-b7f3-74ab8958278e" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/6699d36e-b6af-4852-ac09-7dfc025281f2" width="200" height="400"/>
+
+
 
 ## What I Learned
 1. MediaPlayer
