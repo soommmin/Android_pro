@@ -1,6 +1,6 @@
-# part2-chapter7
+## part2-chapter7
 
-## 날씨앱
+# 날씨앱
 
 <img src="https://github.com/soommmin/android_pro/assets/150005268/7a7b097e-81ff-4cd2-a6be-be2f4a7a983f" width="200" height="400"/>
 <img src="https://github.com/soommmin/android_pro/assets/150005268/6186cf12-d1c6-4523-823f-339665fe7d3c" width="200" height="400"/>
