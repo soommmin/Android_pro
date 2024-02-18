@@ -1,11 +1,10 @@
-# part2-chapter10
+## part2-chapter10
 
-## 오늘의집
+# 오늘의집
 
-<img src="https://github.com/soommmin/part2-chapter10/assets/150005268/fe76c77c-9471-4c51-9354-64b66d1bab15" width="200" height="400"/>
-<img src="https://github.com/soommmin/part2-chapter10/assets/150005268/de3fa3b1-dbac-43ee-b9e3-56a54a8f0571" width="200" height="400"/>
-<img src="https://github.com/soommmin/part2-chapter10/assets/150005268/b6972fc0-eec2-4a7c-b181-0d4fb8e6d087" width="200" height="400"/>
-
+<img src="https://github.com/soommmin/android_pro/assets/150005268/faf09624-5b3c-4f3a-95a9-7b27a015ab8d" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/d78659db-8994-4474-b92f-838c82f3e3b1" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/43da783c-6e95-4b49-b431-53b0f4a82cfa" width="200" height="400"/>
 
 오늘의집은 Firebase를 활용하여 안전하고 간편한 집 정보 공유와 탐색을 제공합니다. 
 사용자들은 손쉽게 사용자 인증을 완료하고, 실시간으로 업데이트되는 데이터를 활용하여 집 정보를 빠르게 찾을 수 있습니다. 
