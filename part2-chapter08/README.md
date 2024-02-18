@@ -1,10 +1,10 @@
-# part2-chapter8
+## part2-chapter8
 
-## 맛집앱
+# 맛집앱
 
-<img src="https://github.com/soommmin/part2-chapter8/assets/150005268/0f505e87-7603-45c8-98ef-385592a23f6d" width="200" height="400"/>
-<img src="https://github.com/soommmin/part2-chapter8/assets/150005268/10bd3e6e-7bdb-4bfe-b904-badebdf42ad4" width="200" height="400"/>
-<img src="https://github.com/soommmin/part2-chapter8/assets/150005268/ee30eed0-2b92-4717-a412-76602c66ad37" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/786e7c81-bdbf-46b1-90a1-acaf90ee39db" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/12e0b84b-4e99-4063-b96e-960c9681d79d" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/822aa7bb-120f-452f-b8e2-1ba19d2be191" width="200" height="400"/>
 
 
 맛집앱은 네이버 지도 SDK를 활용하여 안정적이고 신뢰성 있는 지도 서비스를 제공합니다. 
