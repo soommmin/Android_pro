@@ -2,9 +2,9 @@
 
 ## 깃허브 레포지토리 조회앱
 
-<img src="https://github.com/soommmin/part2-chapter4/assets/150005268/7a8ff803-87f1-4869-b73d-9d1387ae9d54" width="200" height="400"/>
-<img src="https://github.com/soommmin/part2-chapter4/assets/150005268/9ea734a3-ee5f-47bc-b1e7-0ecd2cc14c03" width="200" height="400"/>
-<img src="https://github.com/soommmin/part2-chapter4/assets/150005268/8b4dd31a-eb79-4297-8739-7181197e768c" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/7bf69ac3-4ec6-4594-a67f-eb4e91d26c09" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/3d2b14c5-c505-434f-85e2-6ddeaf69c1c2" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/2f2ab280-8fe8-4073-a488-6dada97000d1" width="200" height="400"/>
 
 
 깃허브 레포지토리 조회 앱을 통해 Github Open API를 활용하여 키워드로 레포지토리를 검색할 수 있습니다.
