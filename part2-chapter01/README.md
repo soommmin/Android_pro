@@ -2,9 +2,9 @@
 
 # 웹툰앱
 
-<img src="https://github.com/soommmin/part2-chapter01/assets/150005268/d3ecb68f-dfc5-481e-9ec4-6684b8a8a8aa" width="200" height="400"/>
-<img src="https://github.com/soommmin/part2-chapter01/assets/150005268/bd4d17e6-3e83-4ea1-b265-62b2f70833b6" width="200" height="400"/>
-<img src="https://github.com/soommmin/part2-chapter01/assets/150005268/b98c6349-4596-4438-9ca4-02a7b48de3e9" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/4ded0c2e-22ae-47ed-9618-e06aeea58629" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/43f7bf04-4bbd-471a-93d3-1062bfdb0f8a" width="200" height="400"/>
+<img src="https://github.com/soommmin/android_pro/assets/150005268/f5a7e882-1a4b-4b0d-805b-bf4224feae45" width="200" height="400"/>
 
 
 웹툰앱은 ViewPager2와 함께 WebView를 결합하여 N개의 Fragment 구성으로 제작되었습니다. 
